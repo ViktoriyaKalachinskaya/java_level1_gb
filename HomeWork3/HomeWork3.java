@@ -2,10 +2,10 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**
- * Java 1. Home Work #2
+ * Java 1. Home Work #3
  *
  * @author Viktoriya Kalachinskaya
- * @version 14.02.2022 01:42
+ * @version 16.02.2022 02:00
  */
 
 
